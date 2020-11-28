@@ -1,0 +1,46 @@
+body{
+    height: 100%;
+    background: black;
+}
+h1{
+    transform: rotate(-16deg);
+    background-color: #1177cc !important;
+    padding: 10px 20px;
+    display: inline-block;
+    font-size: 28px;
+    color: #ff9900;
+    margin: 30px 200px;
+    border: 20x solid black !important;
+    position: absolute ;
+    right: -89px;
+    top: 14px;
+}
+
+#calculadora{
+    background: #dedede;
+    width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+    height: 545px;
+    text-align: center;
+
+}
+
+#resultado{
+    height: 50px;
+    font-size: 30px;
+    width: 469px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: grey;
+}
+
+.button{
+    width: 23%;
+    height: 112.5px;
+    margin-left: 1%;
+    background: red;
+    overflow: hidden;
+    font-size: 25px;
+    color: white;
+}
